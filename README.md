@@ -84,4 +84,8 @@ Aplicativo Android voltado para apoio e segurança de mulheres em situação de 
   <a href="https://www.linkedin.com/in/eduardo8franca/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Eduardo%20Fran%C3%A7a-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="mailto:eduardolimafrancaxx@gmail.com">
+    <img src="https://img.shields.io/badge/Email-eduardolimafrancaxx%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
