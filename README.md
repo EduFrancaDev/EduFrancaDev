@@ -63,20 +63,6 @@ Automação em Python e Selenium para envio de mensagens no WhatsApp Web a parti
 ### [Projeto-ELA-Android](https://github.com/EduFrancaDev/Projeto-ELA-Android)
 Aplicativo Android voltado para apoio e segurança de mulheres em situação de risco.
 
----
-
-## Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=EduFrancaDev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduFrancaDev&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=EduFrancaDev&theme=tokyonight" />
-</p>
-
----
 
 ## Contato
 
